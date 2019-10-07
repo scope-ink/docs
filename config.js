@@ -6,9 +6,9 @@ const config = {
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logoLink": "https://scope.ink/docs",
+		"title": "Scope Docs",
+		"githubUrl": "https://scope.ink/docs",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -27,17 +27,14 @@ const config = {
 			"/introduction",
     		"/codeblock"
 		],
-		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
-		],
 		"frontline": false,
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"title": "Scope Documentation | Docs",
+		"description": "Documentation of Scope.ink. A site that explains how works the software. ",
 		"ogImage": null,
-		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
+		"docsLocation": " ",
 		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
 	},
 };
