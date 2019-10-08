@@ -1,5 +1,5 @@
 {
-  "name": "Scope Docs",
+  "name": "gatsby-gitbook-boilerplate",
   "private": true,
   "description": "Documentation, built with mdx",
   "author": "Praveen <praveen@hasura.io> (@praveenweb)",
@@ -51,7 +51,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "start": "gatsby develop",
+    "start": "gatsby develop || npm run start",
     "build": "gatsby build --prefix-paths"
   },
   "devDependencies": {
