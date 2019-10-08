@@ -1,6 +1,5 @@
 import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
-import GitHubButton from 'react-github-btn'
 import Link from './link';
 import './styles.css';
 import config from '../../config.js';
@@ -42,7 +41,7 @@ const Header = ({location}) => (
         }
         `}
     render={(data) => {
-      const logoImg = require('./images/logo.svg');
+      const logoImg = require('./images/isotipo.svg');
       const twitter = require('./images/twitter.svg');
       const {
         site: {
@@ -63,7 +62,7 @@ const Header = ({location}) => (
             <div className={'navbar-header navBarHeader'}>
               <Link to={finalLogoLink} className={'navbar-brand navBarBrand'}>
                 {logo.image !== '' ?
-                  (<img className={'img-responsive'} src={logo.image} alt={'logo'} />)
+                  (<img className={'img-responsive'} src={logoImg} alt={'logo'} />)
                   :
                   (<img className={'img-responsive'} src={logoImg} alt={'logo'} />)
                 }
@@ -114,10 +113,6 @@ const Header = ({location}) => (
                     </a>
                    </li>) : null
                 }
-                {githubUrl !== '' ?
-                  (<li className={'githubBtn'}>
-                    <GitHubButton href={githubUrl} data-show-count="true" aria-label="Star on GitHub">Star</GitHubButton>
-                  </li>) : null}
               </ul>
             </div>
           </nav>

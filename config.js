@@ -1,14 +1,14 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://scope.ink/docs",
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logo": "https://user-images.githubusercontent.com/48650098/66376122-2ae96c00-e9af-11e9-9636-d6e671675d90.png",
+		"logoLink": "https://scope.ink",
+		"title": "Scope Docs",
+		"githubUrl": "",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -28,17 +28,17 @@ const config = {
     		"/codeblock"
 		],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "Scope Docs", "link": "https://scope.docs"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"title": "Scope Docs | Scope",
+		"description": "Documentation of Scope.ink.",
 		"ogImage": null,
-		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
-		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+		"docsLocation": "https://scope.ink/docs",
+		"favicon": "https://user-images.githubusercontent.com/48650098/66376122-2ae96c00-e9af-11e9-9636-d6e671675d90.png"
 	},
 };
 

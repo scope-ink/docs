@@ -43,32 +43,6 @@ injectGlobal`
   }
 `;
 
-const Edit = styled('div')`
-  padding: 1rem 1.5rem;
-  text-align: right;
-
-  a {
-    font-size: 14px;
-    font-weight: 500;
-    line-height: 1em;
-    text-decoration: none;
-    color: #555;
-    border: 1px solid rgb(211, 220, 228);
-    cursor: pointer;
-    border-radius: 3px;
-    transition: all 0.2s ease-out 0s;
-    text-decoration: none;
-    color: rgb(36, 42, 49);
-    background-color: rgb(255, 255, 255);
-    box-shadow: rgba(116, 129, 141, 0.1) 0px 1px 1px 0px;
-    height: 30px;
-    padding: 5px 16px;
-    &:hover {
-      background-color: rgb(245, 247, 249);
-    }
-  }
-`;
-
 export default class MDXRuntimeTest extends Component {
   render() {
     const { data } = this.props;
@@ -79,7 +53,6 @@ export default class MDXRuntimeTest extends Component {
         siteMetadata: { docsLocation, title }
       }
     } = data;
-    const gitHub = require('../components/images/github.svg');
 
     const navItems = allMdx.edges
       .map(({ node }) => node.fields.slug)
@@ -140,11 +113,6 @@ export default class MDXRuntimeTest extends Component {
           <h1 className={'title'}>
             {mdx.fields.title}
           </h1>
-          <Edit className={'mobileView'}>
-            <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
-              <img src={gitHub} alt={'Github logo'} /> Edit on GitHub
-            </Link>
-          </Edit>
         </div>
         <div className={'mainWrapper'}>
           <MDXRenderer>{mdx.body}</MDXRenderer>

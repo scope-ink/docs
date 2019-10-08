@@ -59,14 +59,14 @@ const Sidebar = styled('aside')`
   position: sticky;
   top: 0;
   padding-right: 0;
-  background-color: #372476;
+  background-color: rgb(13, 13, 56);
   /* Safari 4-5, Chrome 1-9 */
   background: rgb(13, 13, 56);
   background-color: rgb(13, 13, 56);
   @media only screen and (max-width: 767px) {
     padding-left: 0px;
-    background-color: #372476;
-    background: #372476;
+    background-color: rgb(13, 13, 56);
+    background: rgb(13, 13, 56);
   }
   @media (min-width: 767px) and (max-width:1023px)
   {
