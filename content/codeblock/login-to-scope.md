@@ -1,7 +1,7 @@
 ---
-title: "Sub Page"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "Log-in to Scope"
+metaTitle: "Log-in to Scope - Scope Docs"
+metaDescription: "How to log-in to Scope.ink"
 ---
 
 The following is a code block with JavaScript language syntax highlighting.

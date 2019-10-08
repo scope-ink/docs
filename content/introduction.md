@@ -1,32 +1,19 @@
 ---
 title: "Introduction"
-metaTitle: "Introduction"
+metaTitle: "Introduction - Scope Docs"
 metaDescription: "Introduction to Scope.ink Documentation"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
 
-# Heading H1
-Heading 1 text
+## What is Scope?
 
-## Heading H2
-Heading 2 text
+Scope is a tool that enables you to measure developer impact on an organization. It prints visualizations based on how code contributions are performed, parametrizing cognitive values over raw metrics.
 
-### Heading H3
-Heading 3 text
+## Our mission
 
-#### Heading H4
-Heading 4 text
+To help visualize and track cognitive work. Scope's mission is to help and give fair feedback of a person's contribution to an organization, when they are soft or hard to track, Scope will rather help understand that person's activity and how they work instead of simplifying their metrics on pure numeric values on a ladder.
 
-##### Heading H5
-Heading 5 text
+## Our Vision
 
-###### Heading H6
-Heading 6 text
+Make 21st century work less exploitative. We want to change grading into visualizing cognitive progress to help students, scientist and engineers have a significant impact.
 
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
