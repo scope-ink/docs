@@ -2,6 +2,7 @@
 title: "Introduction"
 metaTitle: "Introduction - Scope Docs"
 metaDescription: "Introduction to Scope.ink Documentation"
+
 ---
 
 
