@@ -25,7 +25,6 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    		"/codeblock"
 		],
 		"links": [
 			{ "text": "Scope Docs", "link": "https://scope.docs"},
