@@ -1,12 +1,8 @@
 ---
-title: "Introduction"
-metaTitle: "Introduction - Scope Docs"
-metaDescription: "Introduction to Scope.ink Documentation"
-
+title: "What is Scope?"
+metaTitle: "What is Scope? - Scope Docs"
+metaDescription: "What is Scope.ink?"
 ---
-
-## Introduction for Scope...
-
 
 ## What is Scope?
 
