@@ -5,8 +5,6 @@ metaDescription: "Introduction to Scope.ink Documentation"
 
 ---
 
-## Introduction for Scope...
-
 
 ## What is Scope?
 
