@@ -5,4 +5,4 @@ metaDescription: "How to configure Scope"
 
 ---
 
-## How do I get started?
+## How do I get started with Scope?
