@@ -6,15 +6,7 @@ metaDescription: "Introduction to Scope.ink Documentation"
 ---
 
 
-## What is Scope?
+## What Does Scope Do?
 
-Scope is a way to visualize the contributions of software engineers which have traditionally been difficult to track.
-Using methods of measuring productivity such as line counting and verbal updates, is outdated and inaccurate. Scope aims to give you a complete insight into the work of your engineers, and your engineers the recognition they deserve.
 
-**What will complete insights and visualizations allow you to do?**
-- Understand how your engineers are utilizing their resources and what they are accomplishing.
-- Quickly locate and eradicate bad work habits and inefficiencies within your team.
-- Increase productivity and move products to market more quickly.
-- Make decisions based on clearly defined facts and statistics rather than opinion.
-
-In addition to understanding of the work of engineers, Scope is a tool to help your team reduce inefficiencies and time wasted explaining code. Scope increases productivity by helping teams of developers work as a cohesive unit.
+Scope is a tool to help you better understand the work of your software developers. Our algorithm produces valuable insights and visulizations to help you manage your team of engineers.  Reduce inefficiencies and increase productivity by helping your team work as a cohesive unit. 

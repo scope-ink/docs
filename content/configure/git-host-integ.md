@@ -6,7 +6,9 @@ metaDescription: "Git Host Integration"
 
 ## Git Host integration (GitHub Enterprise, GitLab, ...Bitbucket)
 
- Here's how we do it
+#### If you are using GitHub
+GitHub is automatically integrated into your repository when you sign up via the [Scope.ink](https://scope.ink/) website. Just go to our homepage and click the green'Sign Up with GitHub' button. 
 
+#### If you are using GitLab
+If you plan on using GitLab, you will have to first create an account with Scope and then add the repository to your account in 'Settings.' 
 
-Ok let's see if that works now

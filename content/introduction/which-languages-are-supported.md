@@ -6,4 +6,4 @@ metaDescription: "Which Languages does Scope.ink Support?"
 
 ## Which Languages are Supported?
 
-We support all languages. If it is supported by one of our trusted repositories, it is trusted by Scope. s
+We support all languages. If it is supported by one of our trusted repositories, it is trusted by Scope.
