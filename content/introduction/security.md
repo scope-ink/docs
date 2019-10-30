@@ -4,8 +4,6 @@ metaTitle: "Security - Scope Docs"
 metaDescription: "Security at Scope.ink"
 ---
 
-## Security
-
 At Scope, we take your security seriously. A number of steps are taken to generate the best results while keeping your data secure. 
 
 #### Where is my data stored?
