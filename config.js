@@ -24,7 +24,8 @@ const config = {
 	},
 	"sidebar": {
 		"forcedNavOrder": [
-			"/introduction",
+			"/introduction","/company information","/scope metrics",
+			"/configure scope","/billing and invoices",
 		],
 		"links": [
 			{ "text": "Scope Docs", "link": "https://scope.docs"},

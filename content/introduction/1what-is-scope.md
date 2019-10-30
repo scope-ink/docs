@@ -4,9 +4,7 @@ metaTitle: "What is Scope? - Scope Docs"
 metaDescription: "What is Scope.ink?"
 ---
 
-## What is Scope?
-
-Scope is a way to visualize the contributions of software engineers which have traditionally been difficult to track.
+Scope is a way to visualize the contributions of software engineers, a job which has traditionally been difficult to track.
 Using methods of measuring productivity such as line counting and verbal updates, is outdated and inaccurate. Scope aims to give you a complete insight into the work of your engineers, and your engineers the recognition they deserve.
 
 **What will complete insights and visualizations allow you to do?**
