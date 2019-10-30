@@ -28,7 +28,7 @@ const config = {
 			"/configure scope","/billing and invoices",
 		],
 		"links": [
-			{ "text": "Scope Docs", "link": "https://scope.docs"},
+			{ "text": "Contact Us", "link": "https://scope.ink/contact"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
