@@ -61,7 +61,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-  background-color: #76d1f8;
+  background-color: #0090FF;
 }
 
 .headerWrapper {
@@ -238,14 +238,14 @@ pre {
 .headerNav {
   font-family: 'Roboto';
   padding: 0px 24px;
-  color: #76d1f8;
+  color: #0090FF;
   font-size: 16px;
   font-weight: 500;
   line-height: 1em;
 }
 
 .headerNav a {
-  color: #76d1f8;
+  color: #0090FF;
   text-decoration: none;
 }
 
@@ -319,7 +319,7 @@ pre {
 }
 
 .hideFrontLine  .active >a{
-  background-color: #76d1f8;
+  background-color: #0090FF;
   color: #fff !important;
 }
 .firstLevel ul li .collapser svg path {
@@ -347,11 +347,11 @@ pre {
   padding-left: 15px;
 }
 .sideBarUL .item>a:hover {
-  background-color: #76d1f8;
+  background-color: #0090FF;
   color: #fff !important;
 }
 .showFrontLine .item >a:hover {
-  background-color: #76d1f8;
+  background-color: #0090FF;
 }
 .showFrontLine .active >a {
   color: #fff;
@@ -377,7 +377,7 @@ pre {
   border-color: rgb(230,236,241) !important;
   border-style: solid none solid solid;
   border-width: 1px 0px 1px 1px;
-  background-color: #76d1f8;
+  background-color: #0090FF;
   color: #fff;
 }
 
@@ -394,7 +394,7 @@ pre {
   font-size: 32px;
   line-height: 1.5;
   font-weight: 500;
-  border-left: 2px solid #76d1f8;
+  border-left: 2px solid #0090FF;
   padding: 0 16px;
   flex: 1;
   margin-top: 0;
@@ -440,7 +440,7 @@ pre {
   flex-direction: row;
   align-items: center;
   place-self: stretch;
-  color: #76d1f8;
+  color: #0090FF;
   background-color: rgb(255, 255, 255);
   border-radius: 3px;
   border: 1px solid rgb(230, 236, 241);
@@ -534,13 +534,13 @@ pre {
 }
 
 .nextBtn:hover, .previousBtn:hover {
-  color: #76d1f8;
+  color: #0090FF;
   text-decoration: none;
-  border: 1px solid #76d1f8;
+  border: 1px solid #0090FF;
 }
 
 .nextBtn:hover .rightArrow, .previousBtn:hover .leftArrow {
-  color: #76d1f8;
+  color: #0090FF;
 }
 
 /* tables.css */
