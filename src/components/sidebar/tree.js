@@ -51,6 +51,7 @@ const calculateTreeData = edges => {
       }
       prevItems = tmp.items;
     }
+    
     // sort items alphabetically.
     prevItems.map((item) => {
       item.items = item.items
@@ -62,6 +63,7 @@ const calculateTreeData = edges => {
           return 0;
         });
     })
+
     const index = prevItems.findIndex(({label}) => label === parts[parts.length - 1]);
     accu.items.unshift(prevItems.splice(index, 1)[0]);
     return accu;
