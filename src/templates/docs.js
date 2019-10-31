@@ -82,10 +82,11 @@ export default class MDXRuntimeTest extends Component {
       .concat(navItems.items)
       .map(slug => {
         if(slug) {
+
           const { node } = allMdx.edges.find(
             ({ node }) => node.fields.slug === slug
           );
-
+      
           return { title: node.fields.title, url: node.fields.slug };
         }
       });
@@ -96,8 +97,8 @@ export default class MDXRuntimeTest extends Component {
     let canonicalUrl = config.gatsby.siteUrl;
     canonicalUrl = config.gatsby.pathPrefix !== '/' ? canonicalUrl + config.gatsby.pathPrefix : canonicalUrl;
     canonicalUrl = canonicalUrl + mdx.fields.slug;
-
     return (
+     
       <Layout {...this.props}>
         <Helmet>
           {metaTitle ? <title>{metaTitle}</title> : null }
