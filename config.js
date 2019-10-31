@@ -1,7 +1,7 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://scope.ink/docs",
+		"siteUrl": "https://docs.scope.ink",
 		"gaTrackingId": null
 	},
 	"header": {
@@ -25,7 +25,7 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction","/company information","/scope metrics",
-			"/configure scope","/billing and invoices",
+			"/configure","/billing and invoices"
 		],
 		"links": [
 			{ "text": "Contact Us", "link": "https://scope.ink/contact"},
