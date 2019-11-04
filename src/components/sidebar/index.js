@@ -27,14 +27,14 @@ const ListItem = styled(({ className, active, level, ...props }) => {
     position: relative;
 
     &:hover {
-      color: #76d1f8 !important;
+      color: #0090FF !important;
     }
 
     ${props =>
       props.active &&
       `
       color: #663399;
-      border-color: #76d1f8 !important;
+      border-color: #0090FF !important;
       border-style: solid none solid solid;
       border-width: 1px 0px 1px 1px;
       background-color: #fff;
