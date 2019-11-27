@@ -31,5 +31,5 @@ The last work has been done on the pull request and it will soon be looked over.
 
 **Review with Commits**
 
-The review has been done, but more work needs to be done on the pull request before it can be committed. 
+The review has been done, but more work needs to be done on the pull request before it can be merged. 
 
