@@ -1,5 +1,5 @@
 ---
-title: "Which Git Hosts are Supported?"
+title: "Which Git Hosts are supported?"
 metaTitle: "Which Git Hosts are Supported? - Scope Docs"
 metaDescription: "Which Git Hosts does Scope.ink Support?"
 ---

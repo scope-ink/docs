@@ -1,5 +1,5 @@
 ---
-title: "How Can You Contact Us?"
+title: "How can you contact us?"
 metaTitle: "How Can You Contact Us? - Scope docs"
 metaDescription: "How can you contact Scope.ink?"
 ---

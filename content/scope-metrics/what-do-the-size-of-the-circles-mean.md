@@ -1,5 +1,5 @@
 ---
-title: "What do the Size of the Circles Mean?"
+title: "What does the size of the circles mean?"
 metaTitle: "What do the Size of the Circles Mean? - Scope Docs"
 metaDescription: "What do the Size of the Circles on Scope.ink's Website Mean?"
 ---

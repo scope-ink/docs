@@ -1,5 +1,5 @@
 ---
-title: "Billing Information"
+title: "Billing information"
 metaTitle: "Billing and Invoices - Scope Docs"
 metaDescription: "Billing and Invoices at Scope.ink"
 ---

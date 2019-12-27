@@ -1,5 +1,5 @@
 ---
-title: "Which Languages are Supported?"
+title: "Which languages are supported?"
 metaTitle: "Which Languages are Supported? - Scope Docs"
 metaDescription: "Which Languages does Scope.ink Support?"
 ---

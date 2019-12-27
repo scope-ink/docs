@@ -1,5 +1,5 @@
 ---
-title: "How Does it Work?"
+title: "How does it work?"
 metaTitle: "How does it Work? - Scope Docs"
 metaDescription: "How Does Scope.ink Work?"
 ---

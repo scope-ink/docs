@@ -1,6 +1,6 @@
 ---
-title: "How are Insights Helpful?"
-metaTitle: "How are Isights Helpful? - Scope Docs"
+title: "How are insights helpful?"
+metaTitle: "How are Insights Helpful? - Scope Docs"
 metaDescription: "How are Insights from Scope.ink Helpful?"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Are We Hiring?"
+title: "Are we hiring?"
 metaTitle: "Are We Hiring? - Scope Docs"
 metaDescription: "Is Scope.ink Hiring?"
 ---
