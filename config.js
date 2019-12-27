@@ -5,7 +5,7 @@ const config = {
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://user-images.githubusercontent.com/48650098/66376122-2ae96c00-e9af-11e9-9636-d6e671675d90.png",
+		"logo": "https://user-images.githubusercontent.com/48650098/71517626-462d8e80-28af-11ea-8754-b11434f1dee3.png",
 		"logoLink": "https://scope.ink",
 		"title": "Scope Docs",
 		"githubUrl": "",
@@ -38,7 +38,7 @@ const config = {
 		"description": "Documentation of Scope.ink.",
 		"ogImage": null,
 		"docsLocation": "https://scope.ink/docs",
-		"favicon": "https://user-images.githubusercontent.com/48650098/66376122-2ae96c00-e9af-11e9-9636-d6e671675d90.png"
+		"favicon": "https://user-images.githubusercontent.com/48650098/71517626-462d8e80-28af-11ea-8754-b11434f1dee3.png"
 	},
 };
 

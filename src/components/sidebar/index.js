@@ -19,7 +19,7 @@ const ListItem = styled(({ className, active, level, ...props }) => {
   list-style: none;
 
   a {
-    color: #5C6975;
+    color: #0090FF;
     text-decoration: none;
     font-weight: ${({ level }) => (level === 0 ? 700 : 400)};
     padding: 0.45rem 0 0.45rem ${props => 2 + (props.level || 0) * 1}rem;
@@ -48,7 +48,7 @@ const ListItem = styled(({ className, active, level, ...props }) => {
 
 const Sidebar = styled('aside')`
   width: 100%;
-  /* background-color: rgb(13, 13, 56); */
+  /* background-color: #fff; */
   /* border-right: 1px solid #ede7f3; */
   height: 100vh;
   overflow: auto;
@@ -59,14 +59,14 @@ const Sidebar = styled('aside')`
   position: sticky;
   top: 0;
   padding-right: 0;
-  background-color: rgb(13, 13, 56);
+  background-color: #fff;
   /* Safari 4-5, Chrome 1-9 */
-  background: rgb(13, 13, 56);
-  background-color: rgb(13, 13, 56);
+  background: #fff;
+  background-color: #fff;
   @media only screen and (max-width: 767px) {
     padding-left: 0px;
-    background-color: rgb(13, 13, 56);
-    background: rgb(13, 13, 56);
+    background-color: #fff;
+    background: #fff;
   }
   @media (min-width: 767px) and (max-width:1023px)
   {
