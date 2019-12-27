@@ -6,8 +6,8 @@ const config = {
 	},
 	"header": {
 		"logo": "https://user-images.githubusercontent.com/48650098/71517626-462d8e80-28af-11ea-8754-b11434f1dee3.png",
-		"logoLink": "https://scope.ink",
-		"title": "Scope Docs",
+		"logoLink": "/",
+		"title": "Docs Scope",
 		"githubUrl": "",
 		"helpUrl": "",
 		"tweetText": "",
@@ -24,8 +24,8 @@ const config = {
 	},
 	"sidebar": {
 		"forcedNavOrder": [
-			"/introduction","/company information","/scope metrics",
-			"/configure","/billing and invoices"
+			"/starting-with-scope","/scope-metrics","/company-information","/billing and invoices"
+			
 		],
 		"links": [
 			{ "text": "Contact Us", "link": "https://scope.ink/contact"},
@@ -34,10 +34,10 @@ const config = {
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Scope Docs | Scope",
+		"title": "Docs Scope | Scope",
 		"description": "Documentation of Scope.ink.",
 		"ogImage": null,
-		"docsLocation": "https://scope.ink/docs",
+		"docsLocation": "https://docs.scope.ink",
 		"favicon": "https://user-images.githubusercontent.com/48650098/71517626-462d8e80-28af-11ea-8754-b11434f1dee3.png"
 	},
 };

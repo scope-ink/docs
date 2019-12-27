@@ -21,6 +21,7 @@ injectGlobal`
     font-family: -apple-system,
       BlinkMacSystemFont,
       "Segoe UI",
+      "Source Sans Pro",
       "Roboto",
       "Roboto Light",
       "Oxygen",
@@ -34,12 +35,12 @@ injectGlobal`
       "Segoe UI Emoji",
       "Segoe UI Symbol";
 
-    font-size: 16px;
+    font-size: 15px;
   }
 
   a {
     transition: color 0.15s;
-    color: #663399;
+    color: #00B3FF;
   }
 `;
 

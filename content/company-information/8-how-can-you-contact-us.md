@@ -6,4 +6,4 @@ metaDescription: "How can you contact Scope.ink?"
 
 You can contact us via email at <hello@scope.ink>. 
 
-Feel free to browse our [twitter](https://twitter.com/scope_ink) and [LinkedIn](https://www.linkedin.com/company/scope-ink/) as well. 
+Feel free to browse our [Twitter](https://twitter.com/scope_ink) and [LinkedIn](https://www.linkedin.com/company/scope-ink/) as well. 

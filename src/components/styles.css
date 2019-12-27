@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
 body {
-  font-family: 'Roboto';
+  font-family: 'Source Sans Pro, sans-serif';
   background: #f0f2f5;
 }
 
@@ -150,7 +150,7 @@ body {
 }
 
 .logoContent {
-  font-family: 'Roboto';
+  font-family: 'Source Sans Pro, sans-serif';
   margin-left: 16px;
   font-size: 28px;
   line-height: 1.5;
@@ -193,7 +193,7 @@ body {
 }
 
 .navBarUL li a {
-  font-family: 'Roboto';
+  font-family: 'Source Sans Pro, sans-serif';
   color: #fff !important;
   font-size: 16px;
   font-weight: 500;
@@ -211,7 +211,12 @@ body {
 }
 .mainWrapper {
   color: rgb(59, 69, 78);
+  font-size: 15px;
+  font-weight: 400;
   max-width: 750px;
+}
+.mainWrapper a {
+  font-weight: 600;
 }
 .navBarUL li a:hover {
   opacity: .7;
@@ -230,14 +235,14 @@ pre {
 }
 
 .mainWrapper ul li, .mainWrapper ol li {
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.8;
   font-weight: 400;
 }
 
 /* Header section ends here */
 .headerNav {
-  font-family: 'Roboto';
+  font-family: 'Source Sans Pro, sans-serif';
   padding: 0px 24px;
   color: #0090FF;
   font-size: 16px;

@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-metaTitle: "Introduction to Scope - Scope Docs"
-metaDescription: "Introduction to Scope"
+title: "Starting with Scope"
+metaTitle: "Starting with Scope - Scope Docs"
+metaDescription: "Starting with Scope"
 
 ---
 

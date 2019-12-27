@@ -1,7 +1,7 @@
 ---
 title: "Which Git Hosts are supported?"
-metaTitle: "Which Git Hosts are Supported? - Scope Docs"
-metaDescription: "Which Git Hosts does Scope.ink Support?"
+metaTitle: "Which Git Hosts are supported? - Scope Docs"
+metaDescription: "Which Git Hosts does Scope.ink support?"
 ---
 
 GitHub, GitHub Enterprise (beta) & GitLab (beta). 

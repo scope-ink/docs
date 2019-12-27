@@ -1,7 +1,7 @@
 ---
 title: "What does the size of the circles mean?"
-metaTitle: "What do the Size of the Circles Mean? - Scope Docs"
-metaDescription: "What do the Size of the Circles on Scope.ink's Website Mean?"
+metaTitle: "What does the size of the circles mean? - Scope Docs"
+metaDescription: "What does the size of the circles on Scope.ink's mean?"
 ---
 
 The size of the circle is proportionate to the sum of all the commits, pull requests, and reviews made in a day by that developer.
