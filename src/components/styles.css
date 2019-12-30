@@ -58,11 +58,11 @@ body {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #fff !important;
+  background-color: #0090FF !important;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-  background-color: #0090FF;
+  background-color: white;
 }
 
 .headerWrapper {
