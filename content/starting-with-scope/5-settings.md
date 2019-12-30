@@ -5,7 +5,7 @@ metaDescription: "Seetings Panel"
 
 ---
 
-From the Settings panel, you can setup everything in the application: profile and subscription, for the moment. In the future, you will be able to setup your integrations and notifications.
+From the Settings panel, you can setup everything in the application: profile and subscription.
 
 ## Profile
 

@@ -5,14 +5,14 @@ metaDescription: "Logging in to Scope"
 
 ---
 
-First of all, you have to access to the Scope app's link through [here](https://app.scope.ink "here"). Once you arrive to the logging page, you have two options:
+First of all, you have to access to [Scope](https://app.scope.ink "Scope"). Once you arrive to the logging page, you have two options:
 
-- Login with GitHub (recommended)
-- Create your own account and insert your personal token yourself (recommended option for GitLab accounts)
+- Login with GitHub (recommended).
+- Create an account and insert your personal token yourself.
 
-## If you Login with GitHub
+## 1. Login with GitHub
 
-Press the button *Login with GitHub*
+Press the button *Sign Up with GitHub*
 
 ![Login with GitHub] (https://user-images.githubusercontent.com/48650098/71575481-664a9100-2aed-11ea-843b-a9bfd7a6c17d.png)
 
@@ -38,7 +38,7 @@ A new pop-up will appear in the left of the screen.
 
 ![Create Acc Pop-up](https://user-images.githubusercontent.com/48650098/71575821-a3fbe980-2aee-11ea-8ee8-6909933161f5.png)
 
-You have to insert a valid e-mail and your own password. No scopes will be required to create your account with Scope. Once you insert your email and the password, press the **Sign Up** button and you will be redirected to the app.
+You have to insert a valid e-mail and your own password. **No scopes will be required** to create your account with Scope. Once you insert your email and the password, press the **Sign Up** button and you will be redirected to the app.
 
 If you have created your Scope account already, you have to press the **Login** button to access to the application.
 

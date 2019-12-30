@@ -23,11 +23,11 @@ Like the Search Bar, you can play with the Person filter. You can select the peo
 
 The data availability depends on the [pricing plan](https://scope.ink/pricing "pricing plan") you have selected. By default, the data availability is **1 month**. For Startup Plan **2 months**, for Pro & Enterprise Plan **4 months**.
 
-From the Date Filter, you can select the date from which you want to obtain the data. It's functionality is very simple, just select the date you want. Remember that the data availability is always from **today**, so if you the Startup Plan and have 2 months and today is -for example- 3 December 2019, you will have data until 3 October 2019.
+From the Date Filter, you can select the date from which you want to obtain the data. It's functionality is very simple, just select the date you want. Remember that the data availability is always from **today**, so if you have the Startup Plan and 2 months of data availanility and today is -for example- 3rd December 2019, you will have data until 3rd October 2019.
 
 ![Date Filter 1](https://user-images.githubusercontent.com/48650098/71578434-6bf9a400-2af8-11ea-81b7-918074fa7305.png)
 
-You can select weeks or days also:
+You can also select weeks or days:
 
 ![Date Filter 2](https://user-images.githubusercontent.com/48650098/71578463-86338200-2af8-11ea-89de-2cff4dd0bc3c.png)
 
