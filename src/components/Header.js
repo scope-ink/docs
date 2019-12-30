@@ -60,7 +60,7 @@ const Header = ({location}) => (
         <div className={'navBarWrapper'}>
           <nav className={'navbar navbar-default navBarDefault'}>
             <div className={'navbar-header navBarHeader'}>
-              <Link to={finalLogoLink} className={'navbar-brand navBarBrand'}>
+              <Link to={'/'} className={'navbar-brand navBarBrand'}>
                 {logo.image !== '' ?
                   (<img className={'img-responsive'} src={logoImg} alt={'logo'} />)
                   :
