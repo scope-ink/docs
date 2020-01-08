@@ -4,6 +4,6 @@ metaTitle: "Which Git Hosts are supported? - Scope Docs"
 metaDescription: "Which Git Hosts does Scope.ink support?"
 ---
 
-GitHub, GitHub Enterprise (beta) & GitLab (beta). 
+GitHub & GitHub Enterprise (beta). 
 
 At the moment, Scope is fully integrated with GitHub and is working on integrating other Git Hosts as well. Scope is able to take in your data on Commits, Pull Requests, Reviews, and more to spot inefficiencies before they become problematic. 
