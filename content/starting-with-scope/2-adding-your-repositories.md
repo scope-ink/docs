@@ -5,7 +5,7 @@ metaDescription: "Adding your Repositories"
 
 ---
 
-Once you have created your account or logged in with GitHub, you will find a **Walkthrough** that explains briefly what is Scope and how it works. Anyways, you can read more about Scope in the [website](https://scope.ink "website") or in the [company information](https://docs.scope.ink/company-information "company information") folder.
+Once you have logged in with GitHub, you will find a **Walkthrough** that explains briefly what is Scope and how it works. Anyways, you can read more about Scope in the [website](https://scope.ink "website") or in the [company information](https://docs.scope.ink/company-information "company information") folder.
 
 Later, you will be able to add your repositories to the application. The number of available analyzed repos will depend on your [pricing plan](https://scope.ink/pricing "pricing plan").
 
