@@ -9,9 +9,7 @@ In Scope, there are two types of filters: date and person.
 
 ## Person Filter
 
-Since our price plans enable all users of all repositories (unlimited users), the person filter works with all the people who are collaborating in the selected repositories.
-
-For that, you will see the full list of people collaborating within the repositories you selected.
+The person filter works with all the people who are collaborating in the selected repositories. The engineers will be automatically added to the filter once you add a repository to the search bar. We are able to automatically identify which people is working behind every repository so you won't have to register every person. We make it easy.
 
 ![Filter Person](https://user-images.githubusercontent.com/48650098/71578190-694a7f00-2af7-11ea-8b2c-6ea1962eefc8.png)
 
@@ -21,11 +19,9 @@ Like the Search Bar, you can play with the Person filter. You can select the peo
 
 ## Date Filter
 
-The data availability depends on the [pricing plan](https://scope.ink/pricing "pricing plan") you have selected. By default, the data availability is **1 month**. For Startup Plan **2 months**, for Pro & Enterprise Plan **4 months**.
+The data availability depends on the [pricing plan](https://scope.ink/pricing "pricing plan") you have selected. By default, the data availability is **1 month**. Our basic payment plan starts with **3 months** of data.
 
-From the Date Filter, you can select the date from which you want to obtain the data. It's functionality is very simple, just select the date you want. Remember that the data availability is always from **today**, so if you have the Startup Plan and 2 months of data availanility and today is -for example- 3rd December 2019, you will have data until 3rd October 2019.
-
-![Date Filter 1](https://user-images.githubusercontent.com/48650098/71578434-6bf9a400-2af8-11ea-81b7-918074fa7305.png)
+From the Date Filter, you can select the date from which you want to obtain the data. It's functionality is very simple, just select the date you want. Remember that the data availability is always from **the day of the latest PR**, so if you have the Free Plan and 1 month of data availability and today is -for example- 3rd December 2019, you will have data until 3rd November 2019.
 
 You can also select weeks or days:
 

@@ -53,12 +53,11 @@ const Sidebar = styled('aside')`
   height: 100vh;
   overflow: auto;
   position: fixed;
-  padding-left: 0px;
+  padding-bottom: 2em;
   position: -webkit-sticky;
   position: -moz-sticky;
   position: sticky;
   top: 0;
-  padding-right: 0;
   background-color: #fff;
   /* Safari 4-5, Chrome 1-9 */
   background: #fff;

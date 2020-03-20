@@ -1,7 +1,23 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
 body {
-  font-family: 'Source Sans Pro, sans-serif';
+  font-family: 'Work Sans', sans-serif;
   background: #f0f2f5;
+}
+
+h2, h3, h4 {
+  font-weight: 500 !important;
+}
+
+strong {
+  font-weight: 600 !important;
+}
+
+a {
+  color: #0090FF !important;
+}
+
+a:hover {
+  color: #0090FF;
 }
 
 .video-responsive {
@@ -150,7 +166,7 @@ body {
 }
 
 .logoContent {
-  font-family: 'Source Sans Pro, sans-serif';
+  font-family: 'Work Sans', sans-serif;
   margin-left: 16px;
   font-size: 28px;
   line-height: 1.5;
@@ -193,7 +209,7 @@ body {
 }
 
 .navBarUL li a {
-  font-family: 'Source Sans Pro, sans-serif';
+  font-family: 'Work Sans', sans-serif;
   color: #fff !important;
   font-size: 16px;
   font-weight: 500;
@@ -242,7 +258,7 @@ pre {
 
 /* Header section ends here */
 .headerNav {
-  font-family: 'Source Sans Pro, sans-serif';
+  font-family: 'Work Sans', sans-serif;
   padding: 0px 24px;
   color: #0090FF;
   font-size: 16px;
@@ -278,8 +294,6 @@ pre {
   font-weight: 500;
   line-height: 1.5;
   padding: 7px 24px 7px 16px;
-  padding-left: 10px;
-  padding-right: 25px;
   border-style: solid none solid solid;
   border-width: 1px 0px 1px 1px;
   border-color: transparent currentcolor transparent transparent;

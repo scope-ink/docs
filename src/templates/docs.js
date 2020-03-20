@@ -18,22 +18,7 @@ injectGlobal`
   }
 
   html, body {
-    font-family: -apple-system,
-      BlinkMacSystemFont,
-      "Segoe UI",
-      "Source Sans Pro",
-      "Roboto",
-      "Roboto Light",
-      "Oxygen",
-      "Ubuntu",
-      "Cantarell",
-      "Fira Sans",
-      "Droid Sans",
-      "Helvetica Neue",
-      sans-serif,
-      "Apple Color Emoji",
-      "Segoe UI Emoji",
-      "Segoe UI Symbol";
+    font-family: Work Sans, sans-serif;
 
     font-size: 15px;
   }
