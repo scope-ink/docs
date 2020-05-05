@@ -9,9 +9,9 @@ First of all, you have to access to [Scope](https://app.scope.ink "Scope"). Once
 
 ## 1. Login with GitHub
 
-Press the button *Login with GitHub*
+Press the button *Log in with GitHub*
 
-![Login with GitHub] (https://user-images.githubusercontent.com/48650098/72067890-31f08500-32e4-11ea-8855-0363cf742311.png)
+![Log in with GitHub] (https://user-images.githubusercontent.com/48650098/72067890-31f08500-32e4-11ea-8855-0363cf742311.png)
 
 A pop-up will appear. The GitHub [OAuth](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/ "OAuth") system will automatically detect your account if you have your GitHub session active. If you haven't it active, you have to insert your GitHub account name and password.
 
@@ -29,11 +29,21 @@ If you have concerns about security, don't hesitate to read our [security page](
 
 Once you have signed in with GitHub, you will be ready to add your repositories.
 
-## 2. Aren't you using GitHub?
+### Aren't you using GitHub?
 
 In case you are not using GitHub as a git provider, we take it in consideration for our future integrations, so we ask you to click on the **"Not using GitHub?"** button and give us some feedback about which git provider are you actually using.
 
 A pop-up will prompt and we will ask you to insert your ***e-mail*** (so we might be able to inform you in the future when we have your integration ready), ***company name*** (we would like to know which company is asking us for a new integrations) and the ***git provider*** you use.
 
 ![Pop-up SCM](https://user-images.githubusercontent.com/48650098/77149242-6ffee780-6a91-11ea-8f2e-13f2ace59989.png)
+
+## 2. Login with Gmail
+
+For GitLab integration, you must Login in Scope using Gmail and later, add your token through the [Settings page](https://docs.scope.ink/starting-with-scope/5-settings "settings page"). For that, in the app Login screen, please, click on the button *Log in with Gmail*.
+
+![Log in with Gmail](https://user-images.githubusercontent.com/48650098/79738709-691bfc80-82fd-11ea-86f3-4d5115c9ed35.png)
+
+Log in with your Gmail account.
+
+Once you have logged in with your Gmail account, you wil have to create a personal token to be able to add your repositories. Please, in case you have logged in with Gmail, follow the [GitLab integration instructions](https://docs.scope.ink/starting-with-scope/5-settings "GitLab integration instructions").
 
