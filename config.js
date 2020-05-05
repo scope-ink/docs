@@ -24,7 +24,7 @@ const config = {
 	},
 	"sidebar": {
 		"forcedNavOrder": [
-			"/starting-with-scope", "/scope-metrics", "/integrations", "/company-information", "/billing-and-invoices"
+			"/starting-with-scope", "/integrations", "/scope-metrics", "/company-information", "/billing-and-invoices"
 
 		],
 		"links": [

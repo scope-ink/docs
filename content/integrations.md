@@ -11,7 +11,7 @@ Scope is integrated with GitHub and GitLab. Please, visit the appropiate section
 - [GitLab](https://docs.scope.ink/integrations/3-gitlab)
 - [GitLab Enterprise](https://docs.scope.ink/integrations/4-gitlab-enterprise)
 
-However, the process will depend on how you log in:
+## The integration process depends on how you log in:
 
 **1. If you Login with GitHub**
 
