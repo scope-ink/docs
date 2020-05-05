@@ -1,0 +1,29 @@
+---
+title: "GitHub"
+metaTitle: "GitHub - Scope Docs"
+metaDescription: "GitHub"
+---
+
+### GitHub Integration
+
+If you Log in/Sign up with GitHub, you don't have to create your integration token, unless you want to add different GitHub profiles to your account. To manage GitHub integration, you should follow these steps:
+
+![GH Integration](https://user-images.githubusercontent.com/48650098/79743481-ef880c80-8304-11ea-991c-33a0b2f97794.png)
+
+1. For **Domain**, by default *github.com*.
+2. For **Token** insert your created token. Read below how to create a personal token in GitHub. For security concerns, visit our [security page](https://docs.scope.ink/introduction/7-security "security page").
+3. For **Username** insert your username in GitHub.
+
+![GH Int popup](https://user-images.githubusercontent.com/48650098/79741332-5acfdf80-8301-11ea-9317-ddab69b1aaea.png)
+
+## How to create a personal access token on GitHub?
+
+1. Go to your [GitHub Settings page](https://github.com/settings/profile).
+2. Click on **Developer settings**
+3. Click on **Personal access tokens**
+4. Click on **Generate new token** at the right upper corner 
+5. Add a name and select the following **scopes**:
+![scopes](https://user-images.githubusercontent.com/48650098/81051126-7e7a5480-8ec1-11ea-876b-c88eb45b440a.png)
+6. In case your repos are under an organization profile, add the **asdasdasdasdd** scope to the token.
+
+To finish the integration, click on the ***Add integration*** button and later you will be able to select the new repositories.

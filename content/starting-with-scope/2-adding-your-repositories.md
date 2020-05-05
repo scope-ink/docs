@@ -9,8 +9,10 @@ Once you have logged in with GitHub, you will find a **Walkthrough** that explai
 
 Later, you will be able to add your repositories to the application. Our Free plan allows you to analyze up to 2 repositories for free. If you feel Scope is providing you a real value to your company, feel free to ask us the number of repositories that you want to add to the platform. For that, please visit our [pricing page](https://scope.ink "pricing page").
 
-Once you have selected your repositories, please, click on the **continue button**:
+![Add repositories](https://user-images.githubusercontent.com/48650098/81053693-c8653980-8ec5-11ea-9078-03debd3bd3a4.png)
 
-![Continue Button](https://user-images.githubusercontent.com/48650098/71576978-aceeba00-2af2-11ea-99da-288012cffd39.png)
+Once you have selected your repositories, please, click on the **GO** button:
+
+![Go Button](https://user-images.githubusercontent.com/48650098/81053771-e894f880-8ec5-11ea-9f26-dd2860adda1a.png)
 
 Remember that in case that you are using the Free Scope plan **you won't be able to change the repositories**.

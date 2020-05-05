@@ -16,8 +16,9 @@ Scope it's not able to read data of any kind. All of your data is stored in the 
 
 - [GitHub](https://github.com/security)
 - [GitHub Enterprise](https://github.com/enterprise/security).
+- [GitLab](https://about.gitlab.com/security/)
 
-We, in fact, have to ask for *write* and *read* permissions during the authorization process.
+For the Sign In with GitHub we have to ask for *write* and *read* permissions during the authorization process.
 
 #### Why does Scope require write and read permissions?
 
