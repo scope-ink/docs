@@ -25,7 +25,7 @@ Once you click on GitLab option, you will see a pop-up asking for your credentia
 3. On the User Settings menu, select **Access Tokens**.
 4. Choose a name and optional expiry date for the token.
 5. Choose the following **scopes**:
-![scopes](https://user-images.githubusercontent.com/48650098/81051126-7e7a5480-8ec1-11ea-876b-c88eb45b440a.png)
+![GitLab Scopes](https://user-images.githubusercontent.com/48650098/81071792-7cc28800-8ee5-11ea-8a01-6a713a616a2c.png)
 6. Click the **Create personal access token** button.
 7. **Save** the personal access token somewhere safe. Once you leave or refresh the page, you won’t be able to access it again
 
