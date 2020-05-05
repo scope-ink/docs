@@ -11,7 +11,7 @@ First of all, you have to access to [Scope](https://app.scope.ink "Scope"). Once
 
 Press the button *Log in with GitHub*
 
-![Log in with GitHub] (https://user-images.githubusercontent.com/48650098/72067890-31f08500-32e4-11ea-8855-0363cf742311.png)
+![Log in with GitHub] (https://user-images.githubusercontent.com/48650098/81047585-0577fe80-8ebb-11ea-8a3c-1d826ad31033.png)
 
 A pop-up will appear. The GitHub [OAuth](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/ "OAuth") system will automatically detect your account if you have your GitHub session active. If you haven't it active, you have to insert your GitHub account name and password.
 
@@ -41,7 +41,7 @@ A pop-up will prompt and we will ask you to insert your ***e-mail*** (so we migh
 
 For GitLab integration, you must Login in Scope using Gmail and later, add your token through the [Settings page](https://docs.scope.ink/starting-with-scope/5-settings "settings page"). For that, in the app Login screen, please, click on the button *Log in with Gmail*.
 
-![Log in with Gmail](https://user-images.githubusercontent.com/48650098/79738709-691bfc80-82fd-11ea-86f3-4d5115c9ed35.png)
+![Log in with Gmail](https://user-images.githubusercontent.com/48650098/81047599-0d37a300-8ebb-11ea-916a-4f77e86ef0ce.png)
 
 Log in with your Gmail account.
 

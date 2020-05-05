@@ -12,7 +12,7 @@ const config = {
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
-			{ "text": "", "link": ""}
+			{ "text": "", "link": "" }
 		],
 		"search": {
 			"enabled": false,
@@ -24,11 +24,11 @@ const config = {
 	},
 	"sidebar": {
 		"forcedNavOrder": [
-			"/starting-with-scope","/scope-metrics","/company-information","/billing-and-invoices"
-			
+			"/starting-with-scope", "/scope-metrics", "/integrations", "/company-information", "/billing-and-invoices"
+
 		],
 		"links": [
-			{ "text": "Contact Us", "link": "https://scope.ink/contact"},
+			{ "text": "Contact Us", "link": "https://scope.ink/contact" },
 		],
 		"frontline": false,
 		"ignoreIndex": true,
