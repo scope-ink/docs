@@ -15,7 +15,7 @@ Once you click on GitLab option, you will see a pop-up asking for your credentia
 ![GL pop-up](https://user-images.githubusercontent.com/48650098/79744469-acc73400-8306-11ea-98dc-256da261a559.png)
 
 1. For **Domain** insert the value must be ***gitlab.com***.
-2. For **Token** insert your created token. Read below how to create a personal token in GitLab. For security concerns, visit our [security page](https://docs.scope.ink/introduction/7-security "security page").
+2. For **Token** insert your created token. Read below how to create a personal token in GitLab. For security concerns, visit our [security page](https://docs.scope.ink/company-information/7-security "security page").
 3. For **Username** insert your username in GitLab.
 
 ## How to create a personal access token on GitLab?

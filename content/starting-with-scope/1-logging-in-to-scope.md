@@ -25,7 +25,7 @@ You will have to accept our Scopes. GitHub OAuth system ask for ***write*** and 
 
 We need these permissions because we can't give you the metrics without these permissions. The OAuth protocol on GitHub is not granular so we can't read the data without them. 
 
-If you have concerns about security, don't hesitate to read our [security page](https://docs.scope.ink/introduction/7-security "security page"), [terms of use](https://scope.ink/terms "terms of use") and [privacy policy](https://scope.ink/terms "privacy policy") to be sure that we don't use your data in a wrong way. 
+If you have concerns about security, don't hesitate to read our [security page](https://docs.scope.ink/company-information/7-security "security page"), [terms of use](https://scope.ink/terms "terms of use") and [privacy policy](https://scope.ink/terms "privacy policy") to be sure that we don't use your data in a wrong way. 
 
 Once you have signed in with GitHub, you will be ready to add your repositories.
 
@@ -37,5 +37,5 @@ For GitLab integration, you must Login in Scope using Gmail and later, add your 
 
 Then, log in with your Gmail account in the pop-up screen.
 
-Once you have logged in with your Gmail account, you will need to create a personal token to be able to add your repositories. All the process is described in the [Scope Integrations page](https://docs.scope.ink/starting-with-scope/5-settings "Scope Integrations page").
+Once you have logged in with your Gmail account, you will need to create a personal token to be able to add your repositories. All the process is described in the [Scope Integrations page](https://docs.scope.ink/integrations "Scope Integrations page").
 

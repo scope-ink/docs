@@ -11,7 +11,7 @@ If you Log in/Sign up with GitHub, you don't have to create your integration tok
 ![GH Integration](https://user-images.githubusercontent.com/48650098/79743481-ef880c80-8304-11ea-991c-33a0b2f97794.png)
 
 1. For **Domain**, by default *github.com*.
-2. For **Token** insert your created token. Read below how to create a personal token in GitHub. For security concerns, visit our [security page](https://docs.scope.ink/introduction/7-security "security page").
+2. For **Token** insert your created token. Read below how to create a personal token in GitHub. For security concerns, visit our [security page](https://docs.scope.ink/company-information/7-security "security page").
 3. For **Username** insert your username in GitHub.
 
 ![GH Int popup](https://user-images.githubusercontent.com/48650098/79741332-5acfdf80-8301-11ea-9317-ddab69b1aaea.png)

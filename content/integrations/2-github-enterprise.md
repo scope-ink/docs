@@ -15,7 +15,7 @@ After that, a new block with the GitHub Enterprise integration will appear. Then
 ![Add GH Enterprise 2](https://user-images.githubusercontent.com/48650098/72068740-0d95a800-32e6-11ea-9e9e-b35fc6cb2f52.png)
 
 1. For ***Domain** insert your custom GitHub Enterprise domain.
-2. For **Token** insert your created token. Read below how to create a personal token in GitHub. For security concerns, visit our [security page](https://docs.scope.ink/introduction/7-security "security page").
+2. For **Token** insert your created token. Read below how to create a personal token in GitHub. For security concerns, visit our [security page](https://docs.scope.ink/company-information/7-security "security page").
 3. For **Username** insert your username in GitHub.
 
 ## How to create a personal access token on GitHub?

@@ -29,4 +29,4 @@ Only you can access your data when you sign-in to your SCM through the Scope web
 
 ### Who can see my data?
 Only those who have access to your account. There is no public access to your data.
-For more information, see our [Privacy Policy](https://scope.ink/privacy), and [Terms of Service](https://scope.ink/Terms) pages.
+For more information, see our [Privacy Policy](https://scope.ink/privacy), and [Terms of Service](https://scope.ink/terms) pages.
