@@ -8,13 +8,13 @@ metaDescription: "GitHub"
 
 If you Log in/Sign up with GitHub, you don't have to create your integration token, unless you want to add different GitHub profiles to your account. To manage GitHub integration, you should follow these steps:
 
-![GH Integration](https://user-images.githubusercontent.com/48650098/79743481-ef880c80-8304-11ea-991c-33a0b2f97794.png)
+![GH Integration](https://user-images.githubusercontent.com/48650098/81797586-47ceba80-950f-11ea-8b9c-5e16b142b14f.png)
 
-1. For **Domain**, by default *github.com*.
+1. The **Domain** by default is ***github.com***, it can't be modified.
 2. For **Token** insert your created token. Read below how to create a personal token in GitHub. For security concerns, visit our [security page](https://docs.scope.ink/company-information/7-security "security page").
 3. For **Username** insert your username in GitHub.
 
-![GH Int popup](https://user-images.githubusercontent.com/48650098/79741332-5acfdf80-8301-11ea-9317-ddab69b1aaea.png)
+![GH Int popup](https://user-images.githubusercontent.com/48650098/81797997-c75c8980-950f-11ea-8cc5-64fda12fb51c.png)
 
 ## How to create a personal access token on GitHub?
 

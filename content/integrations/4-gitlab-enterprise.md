@@ -8,11 +8,11 @@ metaDescription: "GitLab Enterprise"
 
 If you only use GitLab or/and GitLab Enterprise as a SCM, **you must Login using Gmail**. After that, you will need to integrate your GitLab token. For that, open the GitLab option through the dropdown menu on the Integrations page:
 
-![GL Integration](https://user-images.githubusercontent.com/48650098/79743945-cfa51880-8305-11ea-8843-8c1af22d5b7d.png)
+![GL Integration](https://user-images.githubusercontent.com/48650098/81796982-78622480-950e-11ea-9622-799ac214be9f.png)
 
 Once you click on GitLab option, you will see a pop-up asking for your credentials and token:
 
-![GL pop-up](https://user-images.githubusercontent.com/48650098/79744469-acc73400-8306-11ea-98dc-256da261a559.png)
+![GL pop-up](https://user-images.githubusercontent.com/48650098/81797064-93cd2f80-950e-11ea-8434-a48ecb4cd17b.png)
 
 1. For **Domain** insert the value must be **your on-premise domain** (for example: *customdomain.gitlab.com*).
 2. For **Token** insert your created token. Read below how to create a personal token in GitLab. For security concerns, visit our [security page](https://docs.scope.ink/company-information/7-security "security page").
