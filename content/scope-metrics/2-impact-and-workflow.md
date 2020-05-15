@@ -33,7 +33,7 @@ But this is not only a question of PRs. As we consider that we can really improv
 
 ### What about commits?
 
-We don't measure commit impact. We do not measure the impact of commits. In this case, all we do is to create the circle depending on the number of lines affected by the commit. It is in the PR where we group all the commits and show the impact of all of them.
+We do not measure the impact of commits. In this case, all we do is to create the circle depending on the number of lines affected by the commit. It is in the PR where we group all the commits and show the impact of all the commits grouped.
 
 ![commit](https://user-images.githubusercontent.com/48650098/77156257-52d11580-6a9f-11ea-96d3-43d0f171d5ea.png)
 

@@ -8,11 +8,11 @@ metaDescription: "GitHub Enterprise"
 
 The process is the same than GitHub, but in this case, you must fill all the fields. First of all, select GitHub Enterprise option from the Add button dropdown.
 
-![GHE Integration](https://user-images.githubusercontent.com/48650098/79743582-1f371480-8305-11ea-8d62-3bd20638abe7.png)
+![GHE Integration](https://user-images.githubusercontent.com/48650098/81797705-7187e180-950f-11ea-92f0-ba790f5130ad.png)
 
 After that, a new block with the GitHub Enterprise integration will appear. Then, fill the fields and add your own **token**:
 
-![Add GH Enterprise 2](https://user-images.githubusercontent.com/48650098/72068740-0d95a800-32e6-11ea-9e9e-b35fc6cb2f52.png)
+![Add GH Enterprise 2](https://user-images.githubusercontent.com/48650098/81797762-7fd5fd80-950f-11ea-8292-1e39e811accc.png)
 
 1. For ***Domain** insert your custom GitHub Enterprise domain.
 2. For **Token** insert your created token. Read below how to create a personal token in GitHub. For security concerns, visit our [security page](https://docs.scope.ink/company-information/7-security "security page").
