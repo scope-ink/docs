@@ -35,7 +35,7 @@ You will be redirected to the GitLab sign in page where you will be able to add 
 
 After that, you will see a GitLab pop-up asking for an acceptance of permissions to use Scope. 
 
-![GitLab auth pop-up](https://user-images.githubusercontent.com/48650098/82024607-5690ab00-9690-11ea-8d29-6b038d978656.png)
+![GitLab auth pop-up](https://user-images.githubusercontent.com/48650098/82043507-fdcf0b80-96ab-11ea-953b-9503d3bcdacb.png)
 
 Now, you need to **Authorize** the necessary permissions to use Scope. Once you accept them, you will be redirected back to Scope. It will automatically identify your token, and your projects and repositories.
 
