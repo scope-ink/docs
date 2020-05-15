@@ -33,7 +33,11 @@ You will be redirected to the GitLab sign in page where you will be able to add 
 
 ![Redirect to GitLab sign in page](https://user-images.githubusercontent.com/48650098/81928502-a5353b00-95e5-11ea-8c67-2622200690a1.png)
 
-Now, you need to accept the necessary permissions to use Scope. Once you accept them, you will be redirected back to Scope. It will automatically identify your token, and your projects and repositories.
+After that, you will see a GitLab pop-up asking for an acceptance of permissions to use Scope. 
+
+![GitLab auth pop-up](https://user-images.githubusercontent.com/48650098/82024607-5690ab00-9690-11ea-8d29-6b038d978656.png)
+
+Now, you need to **Authorize** the necessary permissions to use Scope. Once you accept them, you will be redirected back to Scope. It will automatically identify your token, and your projects and repositories.
 
 ## 3. Login with Gmail
 
