@@ -24,6 +24,6 @@ If you Log in/Sign up with GitHub, you don't have to create your integration tok
 4. Click on **Generate new token** at the right upper corner 
 5. Add a name and select the following **scopes**:
 ![scopes](https://user-images.githubusercontent.com/48650098/81051126-7e7a5480-8ec1-11ea-876b-c88eb45b440a.png)
-6. In case your repos are under an organization profile, add the **asdasdasdasdd** scope to the token.
+6. In case your repos are under an organization profile, add the **admin:org** scope to the token.
 
 To finish the integration, click on the ***Add integration*** button and later you will be able to select the new repositories.
