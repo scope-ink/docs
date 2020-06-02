@@ -6,11 +6,11 @@ metaDescription: "GitLab Enterprise"
 
 ### GitLab Enterprise Integration
 
-If you only use GitLab or/and GitLab Enterprise as a SCM, **you must Login using Gmail**. After that, you will need to integrate your GitLab token. For that, open the GitLab option through the dropdown menu on the Integrations page:
+The process is the same than GitLab, but in this case, you must fill all the fields. First of all, select GitLab Enterprise option from the Add button dropdown.
 
 ![GL Integration](https://user-images.githubusercontent.com/48650098/81796982-78622480-950e-11ea-9622-799ac214be9f.png)
 
-Once you click on GitLab option, you will see a pop-up asking for your credentials and token:
+Once you click on GitLab Enterprise option, you will see a pop-up asking for your credentials and token:
 
 ![GL pop-up](https://user-images.githubusercontent.com/48650098/81797064-93cd2f80-950e-11ea-8434-a48ecb4cd17b.png)
 
@@ -30,3 +30,7 @@ Once you click on GitLab option, you will see a pop-up asking for your credentia
 7. **Save** the personal access token somewhere safe. Once you leave or refresh the page, you won’t be able to access it again
 
 To finish the integration, click on the ***Add integration*** button and later you will be able to select the new repositories.
+
+### IMPORTANT NOTE
+
+If your account is created in your own local instance and not globally on the official site GitLab.com, you firstly need to create an account on GitLab.com and then, add your integration to your Scope account. If that is the case, please, [create a GitLab account](https://gitlab.com/users/sign_up "create a GitLab account") or use an existing GitLab account.

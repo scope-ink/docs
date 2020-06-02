@@ -19,13 +19,6 @@ When you click on the **Login with GitHub** button, the OAuth protocol pop-up wi
 
 Once you click on the *Grant Access* button, you have to click on the **Authorize scopeink** button to be redirected to the application.
 
-**2. If you Login with Gmail**
+**2. If you Login with GitLab**
 
-In case you are login with **Gmail**, you need to generate your integration first. For that, please visit our [Integrations page](https://docs.scope.ink/integrations) and create your SCM integration.
-
-During the "generate access token" you will need to grant access by giving permissions to the token to access to your organization. You simply need to click on:
-
-- **GitHub**: read_org
-- **GitLab**: read_api
-
-All the process is described in the integrations pages, but that's all!
+GitLab organizations and projects are added by default. If you have issues while trying to receive data from organizations, projects or teams, please, write us!

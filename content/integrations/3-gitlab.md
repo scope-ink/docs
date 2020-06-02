@@ -6,7 +6,7 @@ metaDescription: "GitLab"
 
 ### GitLab Integration
 
-If you only use GitLab or/and GitLab Enterprise as a SCM, **you must Login using Gmail**. After that, you will need to integrate your GitLab token. For that, open the GitLab option through the dropdown menu on the Integrations page:
+If you Log in/Sign up with GitLab, you don't have to create your integration token, unless you want to add different GitLab profiles to your account. To manage GitLab integration, you should follow these steps:
 
 ![GL Integration](https://user-images.githubusercontent.com/48650098/81797259-d5f67100-950e-11ea-8951-d1637fcba673.png)
 

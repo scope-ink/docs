@@ -39,14 +39,6 @@ After that, you will see a GitLab pop-up asking for an acceptance of permissions
 
 Now, you need to **Authorize** the necessary permissions to use Scope. Once you accept them, you will be redirected back to Scope. It will automatically identify your token, and your projects and repositories.
 
-## 3. Login with Gmail
-
-You also can login to Scope using an email account. In this case, you will have to insert your SCM token manually later in the app. To log in using Gmail, click on *Sign in with Gmail* button:
-
-![Log in with Gmail](https://user-images.githubusercontent.com/48650098/81928213-322bc480-95e5-11ea-9127-b179c3925740.png)
-
-Once you have logged in with your Gmail account, you will need to create a personal token to be able to add your repositories. All the process is described in the [Scope Integrations page](https://docs.scope.ink/integrations "Scope Integrations page").
-
 *----*
 
 ** **Why does Scope require write and read permissions?**

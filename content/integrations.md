@@ -24,11 +24,3 @@ Scope is integrated with GitHub and GitLab. Please, visit the appropiate section
 ![Log in with GitLab](https://user-images.githubusercontent.com/48650098/81928184-293af300-95e5-11ea-85ee-af73c4617002.png)
 
 - Your token will be automatically created and you will be able to add more integrations through the Integrations panel.
-
-**3. If you Login with Gmail**
-
-![Log in with Gmail](https://user-images.githubusercontent.com/48650098/81928213-322bc480-95e5-11ea-9127-b179c3925740.png)
-
-- You must create your own token in your SCM (GitHub or GitLab) and add it to the integration.
-
-You can add your integrations by going to the **"Add"** button and selecting your SCM option.
